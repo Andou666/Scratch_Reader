@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-25T01:01:55.189Z</id>
+    <id>urn:2021-08-26T00:59:57.238Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-25T01:01:55.189Z</updated>
+    <updated>2021-08-26T00:59:57.238Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Scratch :: Announcements :: Wiki Wednesday, August 25, 2021]]></title>
+        <id>https://scratch.mit.edu/discuss/post/5556224/</id>
+        <link href="https://scratch.mit.edu/discuss/post/5556224/"/>
+        <updated>2021-08-25T10:54:12.000Z</updated>
+        <summary type="html"><![CDATA[I should participate more in the wiki lol<br/><br/>wait omg its wednesday<br/><br/>yay im on first page]]></summary>
+        <author>
+            <name>Latest posts on Announcements</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Scratch :: Announcements :: Wiki Wednesday, August 25, 2021]]></title>
+        <id>https://scratch.mit.edu/discuss/post/5556082/</id>
+        <link href="https://scratch.mit.edu/discuss/post/5556082/"/>
+        <updated>2021-08-25T09:17:16.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote><p class="bb-quote-author">jask82006 wrote:</p>Great, Thanks for this</blockquote>thanks for what]]></summary>
+        <author>
+            <name>Latest posts on Announcements</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Scratch :: Announcements :: Wiki Wednesday, August 25, 2021]]></title>
+        <id>https://scratch.mit.edu/discuss/post/5556070/</id>
+        <link href="https://scratch.mit.edu/discuss/post/5556070/"/>
+        <updated>2021-08-25T09:01:10.000Z</updated>
+        <summary type="html"><![CDATA[Great, Thanks for this]]></summary>
+        <author>
+            <name>Latest posts on Announcements</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Scratch :: Announcements :: Wiki Wednesday, August 25, 2021]]></title>
+        <id>https://scratch.mit.edu/discuss/post/5556067/</id>
+        <link href="https://scratch.mit.edu/discuss/post/5556067/"/>
+        <updated>2021-08-25T09:00:38.000Z</updated>
+        <summary type="html"><![CDATA[<pre class="blocks">when green flag clicked<br/>say [today is Wednesday] for (2) secs</pre>]]></summary>
+        <author>
+            <name>Latest posts on Announcements</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Scratch :: Announcements :: Wiki Wednesday, August 25, 2021]]></title>
+        <id>https://scratch.mit.edu/discuss/post/5556020/</id>
+        <link href="https://scratch.mit.edu/discuss/post/5556020/"/>
+        <updated>2021-08-25T08:25:11.000Z</updated>
+        <summary type="html"><![CDATA[its wednesday right now]]></summary>
+        <author>
+            <name>Latest posts on Announcements</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Scratch :: Announcements :: Wiki Wednesday, August 25, 2021]]></title>
+        <id>https://scratch.mit.edu/discuss/post/5556016/</id>
+        <link href="https://scratch.mit.edu/discuss/post/5556016/"/>
+        <updated>2021-08-25T08:23:34.000Z</updated>
+        <summary type="html"><![CDATA[yes]]></summary>
+        <author>
+            <name>Latest posts on Announcements</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Scratch :: Announcements :: Wiki Wednesday, August 25, 2021]]></title>
+        <id>https://scratch.mit.edu/discuss/post/5555810/</id>
+        <link href="https://scratch.mit.edu/discuss/post/5555810/"/>
+        <updated>2021-08-25T06:42:19.000Z</updated>
+        <summary type="html"><![CDATA[Direction over 180 just goes back to -180]]></summary>
+        <author>
+            <name>Latest posts on Announcements</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Scratch :: Announcements :: Wiki Wednesday, August 25, 2021]]></title>
+        <id>https://scratch.mit.edu/discuss/post/5555761/</id>
+        <link href="https://scratch.mit.edu/discuss/post/5555761/"/>
+        <updated>2021-08-25T06:10:45.000Z</updated>
+        <summary type="html"><![CDATA[first<br/>thx]]></summary>
+        <author>
+            <name>Latest posts on Announcements</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Scratch :: Announcements :: Wiki Wednesday, August 25, 2021]]></title>
+        <id>https://scratch.mit.edu/discuss/post/5555759/</id>
+        <link href="https://scratch.mit.edu/discuss/post/5555759/"/>
+        <updated>2021-08-25T06:10:14.000Z</updated>
+        <summary type="html"><![CDATA[Today we have the 63rd edition of Wiki Wednesday for everyone!<br/><br/><div style="text-align:center;">Without further ado, here are the <span class="bb-bold">Wiki Articles of the Month</span>:</div><br/><blockquote><img src="https://u.cubeupload.com/jvvg/flaguk.png"></img> <a href="https://en.scratch-wiki.info/wiki/Special:Search?search=Scratch+Wiki+Home">English</a>: <a href="https://en.scratch-wiki.info/wiki/Special:Search?search=Direction+%28value%29">Direction (value)</a><br/><span class="bb-italic">A sprite's direction value controls how much a sprite is rotated. It is measured in degrees (°) and ranges from -180° to 180° (both pointing down). The default value for the direction is 90° (pointing right).</span><br/><br/><a href="https://en.scratch-wiki.info/wiki/File:36_directions.png"><img src="https://en.scratch-wiki.info/w/images/thumb/36_directions.png/190px-36_directions.png"></img></a><br/><span class="bb-italic">Scratch Cat changing directions (and moving, to see differences) 36 times, changing direction by 10 each time.</span><br/></blockquote><br/><blockquote><img src="https://u.cubeupload.com/jvvg/flagfr.png"></img> <a href="https://en.scratch-wiki.info/wiki/Special:Search?search=fr%3AScratch+Wiki+Accueil">French (français)</a>: <a href="https://en.scratch-wiki.info/wiki/Special:Search?search=fr%3AAjouter+un+projet+%C3%A0+un+studio">Ajouter un projet à un studio</a><br/><span class="bb-italic">Si vous souhaitez ajouter un projet dans un studio, allez sur la page du projet en question, puis appuyez sur le bouton &ldquo;studios&rdquo; qui est situé juste en dessous de la fenêtre du projet.<br/>La liste de tous les studios auxquels vous appartenez apparaît. Vous n'avez qu'à cliquer sur le bouton rond à droite, en face du nom du studio pour ajouter ce projet à un studio.</span><br/><br/><a href="https://fr.scratch-wiki.info/wiki/Fichier:Barre_ajout_projet_studio.png"><img src="https://u.cubeupload.com/jvvg/Barreajoutprojetstud.png"></img></a><br/><span class="bb-italic">Fenêtre permettant d'ajouter des projets</span></blockquote><br/><blockquote><img src="https://u.cubeupload.com/jvvg/300iconfinderflagturkey.png"></img> <a href="https://en.scratch-wiki.info/wiki/Special:Search?search=tr%3AAna+Sayfa">Turkish (Türkçe)</a>: <a href="https://en.scratch-wiki.info/wiki/Special:Search?search=tr%3AYapay+Zeka">Yapay Zeka</a><br/><span class="bb-italic">Yapay Zeka, genellikle YZ veya AI olarak kısaltılır, Scratch'te farklı şekillerde kullanılmaktadır.<br/></span></blockquote><br/><blockquote><img src="https://u.cubeupload.com/jvvg/flagru.png"></img> <a href="https://en.scratch-wiki.info/wiki/Special:Search?search=ru%3A%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F+%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0">Russian (Русский)</a>: <a href="https://en.scratch-wiki.info/wiki/Special:Search?search=ru%3A%D0%A0%D1%8E%D0%BA%D0%B7%D0%B0%D0%BA">Рюкзак</a><br/><span class="bb-italic">Рюкзак - хранилище объектов Скретч: спрайтов, скриптов, музыки и другого</span></blockquote><br/><br/><span class="bb-bold">What is the Scratch Wiki?</span><br/>The Scratch Wiki is a collaboratively-written wiki available for free that provides information about the Scratch programming language and its website, history, and phenomena surrounding it. The wiki is supported by the Scratch Team, but is primarily written by Scratchers. The Scratch Wiki is a popular source of information for scripts and tutorials, and it continues to grow as Scratchers use it as their primary source of information. This could also include advanced articles for Scratchers around the world to build, share, and see.<br/><span class="bb-small">(Source: <a href="https://en.scratch-wiki.info/wiki/Scratch_Wiki">Scratch Wiki</a>)</span><br/><br/><div style="text-align:center;"><span class="bb-bold">The Current Scratch Wikis</span><br/><br/>| <img src="https://u.cubeupload.com/jvvg/flagnl.png"></img> <a href="https://en.scratch-wiki.info/wiki/Special:Search?search=nl%3AHoofdpagina">Dutch (Nederlands)</a> | <img src="https://u.cubeupload.com/jvvg/flaguk.png"></img> <a href="https://en.scratch-wiki.info/wiki/Special:Search?search=en%3AScratch+Wiki+Home">English</a> | <img src="https://u.cubeupload.com/jvvg/flagfr.png"></img> <a href="https://en.scratch-wiki.info/wiki/Special:Search?search=fr%3AScratch+Wiki+Accueil">French (français)</a> | <img src="https://u.cubeupload.com/jvvg/flagde.png"></img> <a href="https://en.scratch-wiki.info/wiki/Special:Search?search=de%3AHauptseite">German (deutsch)</a> |<br/><br/>| <img src="https://u.cubeupload.com/jvvg/flaghu.png"></img> <a href="https://en.scratch-wiki.info/wiki/Special:Search?search=hu%3AKezd%C5%91lap">Hungarian (Magyar)</a> | <img src="https://u.cubeupload.com/jvvg/flagid.png"></img> <a href="https://en.scratch-wiki.info/wiki/Special:Search?search=id%3AHalaman+Utama">Indonesian (Bahasa Indonesia)</a> | <img src="https://u.cubeupload.com/jvvg/flagjp.png"></img> <a href="https://en.scratch-wiki.info/wiki/Special:Search?search=ja%3A%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8">Japanese (日本語)</a> | <img src="https://u.cubeupload.com/jvvg/flagru.png"></img> <a href="https://en.scratch-wiki.info/wiki/Special:Search?search=ru%3A%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F+%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0">Russian (Русский)</a> |</div><br/><br/><div style="text-align:center;"><span class="bb-bold">Missing Languages</span></div><br/><br/>There are many languages which do not have a Scratch Wiki! If you know a language without a Wiki, then you can help create one. <a href="https://test.scratch-wiki.info/wiki/How-To-Scratch-Wiki">Learn more here!</a> We are looking for native speakers in a certain language and do not require any applicants to have a perfect grasp on the English language.<br/><br/><span class="bb-bold">By the way, did you know…</span><br/>… that directions in Scratch can go past 180°?<br/>&#8230; что доступ к содержимому своемюго рюкзака можно получить из любого проекта?<br/><br/><span class="bb-italic">A big thank you goes to <a href="https://scratch.mit.edu/users/jvvg/">jvvg</a> for organizing this Wiki Wednesday and writing the post. Credit to Yummygum on iconfinder.com for the flag icons!</span><br/>]]></summary>
+        <author>
+            <name>Latest posts on Announcements</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome to Scratch :: Announcements :: Upcoming Database Work]]></title>
         <id>https://scratch.mit.edu/discuss/post/5539696/</id>
@@ -61,96 +151,6 @@
         <link href="https://scratch.mit.edu/discuss/post/5539604/"/>
         <updated>2021-08-19T20:53:49.000Z</updated>
         <summary type="html"><![CDATA[<blockquote><p class="bb-quote-author">HermioneRockstar wrote:</p><span class="bb-underline">so no comennts!!??</span> ugghh what am I going to do? I know! I'll do a turorial or make my own project wow I don't think I can survive!<br/><br/>okay ya got me I can survive but I think I'll code for the hours doesn't sound to bad<br/><br/><img src="//cdn.scratch.mit.edu/scratchr2/static/__9e4044de46c7852aec750b6571cceb92__/djangobb_forum/img/smilies/smile.png" /></blockquote><br/>the comments will be temporarily disabled while they make changes. It's really no big deal.<br/>]]></summary>
-        <author>
-            <name>Latest posts on Announcements</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to Scratch :: Announcements :: Upcoming Database Work]]></title>
-        <id>https://scratch.mit.edu/discuss/post/5539556/</id>
-        <link href="https://scratch.mit.edu/discuss/post/5539556/"/>
-        <updated>2021-08-19T20:37:12.000Z</updated>
-        <summary type="html"><![CDATA[#14]]></summary>
-        <author>
-            <name>Latest posts on Announcements</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to Scratch :: Announcements :: Upcoming Database Work]]></title>
-        <id>https://scratch.mit.edu/discuss/post/5539551/</id>
-        <link href="https://scratch.mit.edu/discuss/post/5539551/"/>
-        <updated>2021-08-19T20:36:15.000Z</updated>
-        <summary type="html"><![CDATA[Cool!]]></summary>
-        <author>
-            <name>Latest posts on Announcements</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to Scratch :: Announcements :: Upcoming Database Work]]></title>
-        <id>https://scratch.mit.edu/discuss/post/5539549/</id>
-        <link href="https://scratch.mit.edu/discuss/post/5539549/"/>
-        <updated>2021-08-19T20:35:58.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote><p class="bb-quote-author">-Majoristic wrote:</p><blockquote><p class="bb-quote-author">NintendoGames2021 wrote:</p>Im so sad!</blockquote>???? why</blockquote>hes not]]></summary>
-        <author>
-            <name>Latest posts on Announcements</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to Scratch :: Announcements :: Upcoming Database Work]]></title>
-        <id>https://scratch.mit.edu/discuss/post/5539546/</id>
-        <link href="https://scratch.mit.edu/discuss/post/5539546/"/>
-        <updated>2021-08-19T20:34:57.000Z</updated>
-        <summary type="html"><![CDATA[Hopefully this update will benifit the commenting servers. Some big games with 1000+ assets lag because of some comments. And besides, Scratch can now easily check over comments because it is on the cloud. Don't panic anyone, it's just a few hours of closing comments.<br/>Thank you ST!]]></summary>
-        <author>
-            <name>Latest posts on Announcements</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to Scratch :: Announcements :: Upcoming Database Work]]></title>
-        <id>https://scratch.mit.edu/discuss/post/5539543/</id>
-        <link href="https://scratch.mit.edu/discuss/post/5539543/"/>
-        <updated>2021-08-19T20:34:33.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote><p class="bb-quote-author">NintendoGames2021 wrote:</p>Im so sad!</blockquote>???? why]]></summary>
-        <author>
-            <name>Latest posts on Announcements</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to Scratch :: Announcements :: Upcoming Database Work]]></title>
-        <id>https://scratch.mit.edu/discuss/post/5539540/</id>
-        <link href="https://scratch.mit.edu/discuss/post/5539540/"/>
-        <updated>2021-08-19T20:33:39.000Z</updated>
-        <summary type="html"><![CDATA[stop spamming]]></summary>
-        <author>
-            <name>Latest posts on Announcements</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to Scratch :: Announcements :: Upcoming Database Work]]></title>
-        <id>https://scratch.mit.edu/discuss/post/5539536/</id>
-        <link href="https://scratch.mit.edu/discuss/post/5539536/"/>
-        <updated>2021-08-19T20:32:14.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote><p class="bb-quote-author">NintendoGames2021 wrote:</p>Im so sad!</blockquote><br/>no your not]]></summary>
-        <author>
-            <name>Latest posts on Announcements</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to Scratch :: Announcements :: Upcoming Database Work]]></title>
-        <id>https://scratch.mit.edu/discuss/post/5539520/</id>
-        <link href="https://scratch.mit.edu/discuss/post/5539520/"/>
-        <updated>2021-08-19T20:25:39.000Z</updated>
-        <summary type="html"><![CDATA[<br/><ol><li>Hi <img src="//cdn.scratch.mit.edu/scratchr2/static/__9e4044de46c7852aec750b6571cceb92__/djangobb_forum/img/smilies/smile.png" /> all you know is I getting more messages<br/>It’s…Itssss….Fine<br/><br/></li></ol>]]></summary>
-        <author>
-            <name>Latest posts on Announcements</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to Scratch :: Announcements :: Upcoming Database Work]]></title>
-        <id>https://scratch.mit.edu/discuss/post/5539514/</id>
-        <link href="https://scratch.mit.edu/discuss/post/5539514/"/>
-        <updated>2021-08-19T20:23:22.000Z</updated>
-        <summary type="html"><![CDATA[Im so sad!]]></summary>
         <author>
             <name>Latest posts on Announcements</name>
         </author>
